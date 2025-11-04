@@ -110,7 +110,7 @@ const HotelDetail = () => {
         navigate('/my-bookings');
       }
     } catch (error) {
-      console.error('❌ Booking failed:', error.message);
+      console.error(' Booking failed:', error.message);
       alert('Something went wrong while booking. Try again.');
     } finally {
       setLoading(false);
@@ -263,7 +263,7 @@ const HotelDetail = () => {
               <div className="mb-6">
                 <div className="flex items-baseline">
                   <span className="text-4xl font-bold text-gray-900">
-                    ${hotel.price}
+                    ₹{hotel.price}
                   </span>
                   <span className="text-gray-600 ml-2">/ night</span>
                 </div>

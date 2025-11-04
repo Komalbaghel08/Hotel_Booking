@@ -184,7 +184,7 @@ const Hotels = () => {
                       />
                       <div className="absolute top-4 right-4 bg-white px-3 py-1 rounded-full shadow-lg">
                         <span className="text-sm font-semibold text-gray-900">
-                          ${hotel.price}/night
+                          ₹{hotel.price}/night
                         </span>
                       </div>
                     </div>

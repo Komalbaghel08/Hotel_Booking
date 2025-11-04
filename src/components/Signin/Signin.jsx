@@ -39,7 +39,7 @@ const Signin = ({ onClose, onLoginSuccess }) => {
           Sign In
         </h2>
 
-        {error && <p className="text-red-500 text-sm mb-3">{error}</p>}
+        {error && <p className="text- from-blue-600 text-sm mb-3">{error}</p>}
 
         <form onSubmit={handleLogin} className="space-y-4">
           <input

@@ -8,28 +8,28 @@ const Home = () => {
       name: 'Paris, France',
       image: 'https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=800&h=600&fit=crop',
       hotels: 234,
-      price: '$120'
+      price: '₹120'
     },
     {
       id: 2,
       name: 'Tokyo, Japan',
       image: 'https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=800&h=600&fit=crop',
       hotels: 189,
-      price: '$95'
+      price: '₹95'
     },
     {
       id: 3,
       name: 'Dubai, UAE',
       image: 'https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&h=600&fit=crop',
       hotels: 156,
-      price: '$150'
+      price: '₹150'
     },
     {
       id: 4,
       name: 'New York, USA',
       image: 'https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?w=800&h=600&fit=crop',
       hotels: 312,
-      price: '$180'
+      price: '₹180'
     }
   ];
 
