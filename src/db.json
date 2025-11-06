@@ -1,16 +1,3 @@
 {
-  "bookings": [
-    {
-      "id": "69f7",
-      "userId": 825,
-      "userName": "Ayush Rusiya",
-      "hotelId": 1,
-      "hotelName": "Grand Plaza Hotel",
-      "checkInDate": "2025-10-30",
-      "checkOutDate": "2025-10-30",
-      "guests": 2,
-      "totalPrice": 378,
-      "bookingDate": "2025-10-29"
-    }
-  ]
+  "bookings": []
 }
